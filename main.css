@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(2, 0, 17);
+}
+
+.clock{
+    text-align: center;
+    margin: 180px  190px;
+    padding: 25px 5px;
+    border: solid 7px rgb(156, 255, 176);
+    border-radius: 50px;
+    box-shadow: 1em 1em 1em rgb(15, 226, 134);
+}
+
+.clock h1{
+    margin: 7px 8px;
+    font-size: 5rem;
+    color: rgb(37, 177, 151);
+    font-family: monospace;
+}
+
+.clock .compo{
+    font-size: 2rem;
+    margin: 3px 8px;
+    color: greenyellow;
+    font-family: sans-serif;
+}
